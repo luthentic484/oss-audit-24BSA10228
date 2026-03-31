@@ -2,8 +2,8 @@
 
 **Topic:** The Open Source Audit: VLC Media Player 🎥🐧  
 **Course:** Open Source Software (OSS NGMC) - Capstone Project  
-**Student Name:** Nandani Kumari  
-**Registration Number:** 24BCE10775  
+**Student Name:** Arrnav Gupta  
+**Registration Number:** 24BSA10228  
 **Chosen Software:** VLC Media Player  
 
 ---
