@@ -96,4 +96,3 @@ sudo ./script4.sh /var/log/syslog ERROR
 ./script5.sh
 ```
 *Follow the interactive on-screen prompts. Once finished, check your directory for the newly generated `.txt` file!*
-```
