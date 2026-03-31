@@ -51,14 +51,12 @@ To run these scripts successfully, your system should meet the following require
 ### Step 1: Clone the Repository
 Open your Linux terminal and clone this repository:
 ```bash
-git clone https://github.com/Nandaniiii-web/oss-audit-24BCE10775.git
+git clone https://github.com/luthentic484/oss-audit-24BSA10228/
 ```
-
-
 
 ### Step 2: Navigate to the Directory
 ```bash
-cd oss-audit-24BCE10775
+cd oss-audit-24BSA10228
 ```
 
 ### Step 3: Grant Execution Permissions
@@ -99,8 +97,3 @@ sudo ./script4.sh /var/log/syslog ERROR
 ```
 *Follow the interactive on-screen prompts. Once finished, check your directory for the newly generated `.txt` file!*
 ```
-
-### 💡 Tips before you upload to GitHub:
-1. **File Names:** Ensure your actual script names in your repository match the ones in the README (e.g., `script1.sh`, `script2.sh`). If you named them differently (like `system_identity.sh`), be sure to update the README code blocks to match!
-2. **Hidden Files:** Ensure you don't upload any unnecessary hidden files from your OS.
-3. **Double Check Requirements:** The PDF explicitly states that the README must have the student name, roll number, chosen software, script descriptions, run instructions, and dependencies. This README strictly hits all 6 requirements for maximum marks.
